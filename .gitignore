@@ -1,0 +1,70 @@
+# Vivado generated directories and files
+*.log
+*.jou
+*.str
+*.cache
+*.hw
+*.sim
+*.runs
+*.xsim
+*.ip_user_files
+*.gen
+*.backup
+*.tmp
+*.wdb
+*.pb
+*.rpt
+
+# Vivado-specific temporary files
+*.tcl
+*.xml
+*.vsm
+*.dcp
+*.vst
+*.bin
+*.prj
+*.xpr.lock
+*.xdc.lock
+*.xpr.bak
+
+# IP and Simulation generated files
+*.ip_user_files
+*.ipcache
+*.vivado.*
+.simset
+
+# Build output files
+*.ngc
+*.ngd
+*.ncd
+*.pcf
+*.bgn
+*.drc
+*.routed
+*.bit
+*.mcs
+
+# Implementation results
+*.bxml
+*.ptwx
+*.route_status
+*.usage.xml
+
+# Board support package and SDK files
+.sdk/
+*.sdk
+*.launch
+*.elf
+*.map
+*.log
+
+# Temporary and system files
+*.swp
+*.bak
+*~
+Thumbs.db
+.DS_Store
+
+# Ignore the entire build directory if it exists
+build/
+
