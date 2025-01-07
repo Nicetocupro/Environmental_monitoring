@@ -41,4 +41,12 @@
 - **VGA控制模块**：生成VGA同步信号，处理RGB信号，实现图像在VGA显示器上的正常显示。
 - **显示模块**：控制VGA显示器，根据输入的数字钟数据、温度数据以及不同的显示模式，在VGA上显示相应的内容。
 
+## 最终样式
+
+![image](https://github.com/user-attachments/assets/75e8db26-a6f4-4892-9dde-7075bbf6ef5e)
+
+![image](https://github.com/user-attachments/assets/93fe5bdb-2e5e-479b-bdda-b4bfab718199)
+
+
+
 感谢您的使用和支持！
